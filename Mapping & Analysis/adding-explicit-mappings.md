@@ -1,6 +1,6 @@
 # Adding explicit mapping
 
-## Add field mappings gor `reviews` index
+## Add field mappings for `reviews` index
 
 ```
 PUT /reviews
